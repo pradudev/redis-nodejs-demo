@@ -1,0 +1,10 @@
+11-Oct-2021 16:40:04 [info] Redis - Connected.
+11-Oct-2021 16:40:04 [info] Redis - Ready.
+11-Oct-2021 16:50:05 [info] Redis - End.
+11-Oct-2021 16:50:25 [info] Redis - Reconnecting '{"delay":20000,"attempt":1,"error":null,"total_retry_time":0,"times_connected":1}'.
+11-Oct-2021 16:50:25 [info] Redis - Connected.
+11-Oct-2021 16:50:25 [info] Redis - Ready.
+11-Oct-2021 17:00:26 [info] Redis - End.
+11-Oct-2021 17:00:46 [info] Redis - Reconnecting '{"delay":20000,"attempt":1,"error":null,"total_retry_time":0,"times_connected":2}'.
+11-Oct-2021 17:00:46 [info] Redis - Connected.
+11-Oct-2021 17:00:46 [info] Redis - Ready.
