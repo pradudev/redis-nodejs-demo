@@ -1,7 +1,9 @@
+{{- $name := include "redis-nodejs-demo.fullname" . -}}
+
 apiVersion: v1
 kind: Service
 metadata:
-  name: {{ include "redis-nodejs-demo.fullname" . }}
+  name: "{{ $name }}-svc"
   labels:
     {{- include "redis-nodejs-demo.labels" . | nindent 4 }}
 spec:

@@ -1,10 +1,850 @@
-11-Oct-2021 16:40:04 [info] Redis - Connected.
-11-Oct-2021 16:40:04 [info] Redis - Ready.
-11-Oct-2021 16:50:05 [info] Redis - End.
-11-Oct-2021 16:50:25 [info] Redis - Reconnecting '{"delay":20000,"attempt":1,"error":null,"total_retry_time":0,"times_connected":1}'.
-11-Oct-2021 16:50:25 [info] Redis - Connected.
-11-Oct-2021 16:50:25 [info] Redis - Ready.
-11-Oct-2021 17:00:26 [info] Redis - End.
-11-Oct-2021 17:00:46 [info] Redis - Reconnecting '{"delay":20000,"attempt":1,"error":null,"total_retry_time":0,"times_connected":2}'.
-11-Oct-2021 17:00:46 [info] Redis - Connected.
-11-Oct-2021 17:00:46 [info] Redis - Ready.
+12-Oct-2021 17:31:09 [info] Redis - Connected.
+12-Oct-2021 17:31:09 [info] Redis - Ready.
+12-Oct-2021 17:31:22 [info] redisClient.connected: true
+12-Oct-2021 17:31:22 [info] Reading data from session *****
+12-Oct-2021 17:31:22 [info] ****Read data from session
+12-Oct-2021 17:31:23 [info] redisClient.connected: true
+12-Oct-2021 17:31:23 [info] Reading data from session *****
+12-Oct-2021 17:31:23 [info] ****Read data from session
+12-Oct-2021 17:31:23 [info] redisClient.connected: true
+12-Oct-2021 17:31:23 [info] Reading data from session *****
+12-Oct-2021 17:31:23 [info] ****Read data from session
+12-Oct-2021 17:31:24 [info] redisClient.connected: true
+12-Oct-2021 17:31:24 [info] Reading data from session *****
+12-Oct-2021 17:31:24 [info] ****Read data from session
+12-Oct-2021 17:31:25 [info] redisClient.connected: true
+12-Oct-2021 17:31:25 [info] Reading data from session *****
+12-Oct-2021 17:31:25 [info] ****Read data from session
+12-Oct-2021 17:31:25 [info] redisClient.connected: true
+12-Oct-2021 17:31:25 [info] Reading data from session *****
+12-Oct-2021 17:31:25 [info] ****Read data from session
+12-Oct-2021 17:31:26 [info] redisClient.connected: true
+12-Oct-2021 17:31:26 [info] Reading data from session *****
+12-Oct-2021 17:31:26 [info] ****Read data from session
+12-Oct-2021 17:31:27 [info] redisClient.connected: true
+12-Oct-2021 17:31:27 [info] Reading data from session *****
+12-Oct-2021 17:31:27 [info] ****Read data from session
+12-Oct-2021 17:31:27 [info] redisClient.connected: true
+12-Oct-2021 17:31:27 [info] Reading data from session *****
+12-Oct-2021 17:31:27 [info] ****Read data from session
+12-Oct-2021 17:31:28 [info] redisClient.connected: true
+12-Oct-2021 17:31:28 [info] Reading data from session *****
+12-Oct-2021 17:31:28 [info] ****Read data from session
+12-Oct-2021 17:31:29 [info] redisClient.connected: true
+12-Oct-2021 17:31:29 [info] Reading data from session *****
+12-Oct-2021 17:31:29 [info] ****Read data from session
+12-Oct-2021 17:31:29 [info] redisClient.connected: true
+12-Oct-2021 17:31:29 [info] Reading data from session *****
+12-Oct-2021 17:31:29 [info] ****Read data from session
+12-Oct-2021 17:31:30 [info] redisClient.connected: true
+12-Oct-2021 17:31:30 [info] Reading data from session *****
+12-Oct-2021 17:31:30 [info] ****Read data from session
+12-Oct-2021 17:31:31 [info] redisClient.connected: true
+12-Oct-2021 17:31:31 [info] Reading data from session *****
+12-Oct-2021 17:31:31 [info] ****Read data from session
+12-Oct-2021 17:31:31 [info] redisClient.connected: true
+12-Oct-2021 17:31:32 [info] Reading data from session *****
+12-Oct-2021 17:31:32 [info] ****Read data from session
+12-Oct-2021 17:31:32 [info] redisClient.connected: true
+12-Oct-2021 17:31:32 [info] Reading data from session *****
+12-Oct-2021 17:31:32 [info] ****Read data from session
+12-Oct-2021 17:31:33 [info] redisClient.connected: true
+12-Oct-2021 17:31:33 [info] Reading data from session *****
+12-Oct-2021 17:31:33 [info] ****Read data from session
+12-Oct-2021 17:31:33 [info] redisClient.connected: true
+12-Oct-2021 17:31:34 [info] Reading data from session *****
+12-Oct-2021 17:31:34 [info] ****Read data from session
+12-Oct-2021 17:31:34 [info] redisClient.connected: true
+12-Oct-2021 17:31:34 [info] Reading data from session *****
+12-Oct-2021 17:31:34 [info] ****Read data from session
+12-Oct-2021 17:31:35 [info] redisClient.connected: true
+12-Oct-2021 17:31:35 [info] Reading data from session *****
+12-Oct-2021 17:31:35 [info] ****Read data from session
+12-Oct-2021 17:31:35 [info] redisClient.connected: true
+12-Oct-2021 17:31:36 [info] Reading data from session *****
+12-Oct-2021 17:31:36 [info] ****Read data from session
+12-Oct-2021 17:31:36 [info] redisClient.connected: true
+12-Oct-2021 17:31:36 [info] Reading data from session *****
+12-Oct-2021 17:31:36 [info] ****Read data from session
+12-Oct-2021 17:31:37 [info] redisClient.connected: true
+12-Oct-2021 17:31:37 [info] Reading data from session *****
+12-Oct-2021 17:31:37 [info] ****Read data from session
+12-Oct-2021 17:31:37 [info] redisClient.connected: true
+12-Oct-2021 17:31:38 [info] Reading data from session *****
+12-Oct-2021 17:31:38 [info] ****Read data from session
+12-Oct-2021 17:31:38 [info] redisClient.connected: true
+12-Oct-2021 17:31:38 [info] Reading data from session *****
+12-Oct-2021 17:31:38 [info] ****Read data from session
+12-Oct-2021 17:31:39 [info] redisClient.connected: true
+12-Oct-2021 17:31:39 [info] Reading data from session *****
+12-Oct-2021 17:31:39 [info] ****Read data from session
+12-Oct-2021 17:31:39 [info] redisClient.connected: true
+12-Oct-2021 17:31:40 [info] Reading data from session *****
+12-Oct-2021 17:31:40 [info] ****Read data from session
+12-Oct-2021 17:31:40 [info] redisClient.connected: true
+12-Oct-2021 17:31:40 [info] Reading data from session *****
+12-Oct-2021 17:31:40 [info] ****Read data from session
+12-Oct-2021 17:31:41 [info] redisClient.connected: true
+12-Oct-2021 17:31:41 [info] Reading data from session *****
+12-Oct-2021 17:31:41 [info] ****Read data from session
+12-Oct-2021 17:31:41 [info] redisClient.connected: true
+12-Oct-2021 17:31:42 [info] Reading data from session *****
+12-Oct-2021 17:31:42 [info] ****Read data from session
+12-Oct-2021 17:31:42 [info] redisClient.connected: true
+12-Oct-2021 17:31:42 [info] Reading data from session *****
+12-Oct-2021 17:31:42 [info] ****Read data from session
+12-Oct-2021 17:31:43 [info] redisClient.connected: true
+12-Oct-2021 17:31:43 [info] Reading data from session *****
+12-Oct-2021 17:31:43 [info] ****Read data from session
+12-Oct-2021 17:31:43 [info] redisClient.connected: true
+12-Oct-2021 17:31:44 [info] Reading data from session *****
+12-Oct-2021 17:31:44 [info] ****Read data from session
+12-Oct-2021 17:31:44 [info] redisClient.connected: true
+12-Oct-2021 17:31:44 [info] Reading data from session *****
+12-Oct-2021 17:31:44 [info] ****Read data from session
+12-Oct-2021 17:31:45 [info] redisClient.connected: true
+12-Oct-2021 17:31:45 [info] Reading data from session *****
+12-Oct-2021 17:31:45 [info] ****Read data from session
+12-Oct-2021 17:31:45 [info] redisClient.connected: true
+12-Oct-2021 17:31:46 [info] Reading data from session *****
+12-Oct-2021 17:31:46 [info] ****Read data from session
+12-Oct-2021 17:31:46 [info] redisClient.connected: true
+12-Oct-2021 17:31:46 [info] Reading data from session *****
+12-Oct-2021 17:31:46 [info] ****Read data from session
+12-Oct-2021 17:31:47 [info] redisClient.connected: true
+12-Oct-2021 17:31:47 [info] Reading data from session *****
+12-Oct-2021 17:31:47 [info] ****Read data from session
+12-Oct-2021 17:31:47 [info] redisClient.connected: true
+12-Oct-2021 17:31:48 [info] Reading data from session *****
+12-Oct-2021 17:31:48 [info] ****Read data from session
+12-Oct-2021 17:31:48 [info] redisClient.connected: true
+12-Oct-2021 17:31:48 [info] Reading data from session *****
+12-Oct-2021 17:31:48 [info] ****Read data from session
+12-Oct-2021 17:31:49 [info] redisClient.connected: true
+12-Oct-2021 17:31:49 [info] Reading data from session *****
+12-Oct-2021 17:31:49 [info] ****Read data from session
+12-Oct-2021 17:31:49 [info] redisClient.connected: true
+12-Oct-2021 17:31:50 [info] Reading data from session *****
+12-Oct-2021 17:31:50 [info] ****Read data from session
+12-Oct-2021 17:31:50 [info] redisClient.connected: true
+12-Oct-2021 17:31:50 [info] Reading data from session *****
+12-Oct-2021 17:31:50 [info] ****Read data from session
+12-Oct-2021 17:31:51 [info] redisClient.connected: true
+12-Oct-2021 17:31:51 [info] Reading data from session *****
+12-Oct-2021 17:31:51 [info] ****Read data from session
+12-Oct-2021 17:31:51 [info] redisClient.connected: true
+12-Oct-2021 17:31:52 [info] Reading data from session *****
+12-Oct-2021 17:31:52 [info] ****Read data from session
+12-Oct-2021 17:31:52 [info] redisClient.connected: true
+12-Oct-2021 17:31:52 [info] Reading data from session *****
+12-Oct-2021 17:31:52 [info] ****Read data from session
+12-Oct-2021 17:31:53 [info] redisClient.connected: true
+12-Oct-2021 17:31:53 [info] Reading data from session *****
+12-Oct-2021 17:31:53 [info] ****Read data from session
+12-Oct-2021 17:31:53 [info] redisClient.connected: true
+12-Oct-2021 17:31:54 [info] Reading data from session *****
+12-Oct-2021 17:31:54 [info] ****Read data from session
+12-Oct-2021 17:31:54 [info] redisClient.connected: true
+12-Oct-2021 17:31:54 [info] Reading data from session *****
+12-Oct-2021 17:31:54 [info] ****Read data from session
+12-Oct-2021 17:31:55 [info] redisClient.connected: true
+12-Oct-2021 17:31:55 [info] Reading data from session *****
+12-Oct-2021 17:31:55 [info] ****Read data from session
+12-Oct-2021 17:31:55 [info] redisClient.connected: true
+12-Oct-2021 17:31:56 [info] Reading data from session *****
+12-Oct-2021 17:31:56 [info] ****Read data from session
+12-Oct-2021 17:31:56 [info] redisClient.connected: true
+12-Oct-2021 17:31:56 [info] Reading data from session *****
+12-Oct-2021 17:31:56 [info] ****Read data from session
+12-Oct-2021 17:31:57 [info] redisClient.connected: true
+12-Oct-2021 17:31:57 [info] Reading data from session *****
+12-Oct-2021 17:31:57 [info] ****Read data from session
+12-Oct-2021 17:31:57 [info] redisClient.connected: true
+12-Oct-2021 17:31:58 [info] Reading data from session *****
+12-Oct-2021 17:31:58 [info] ****Read data from session
+12-Oct-2021 17:31:58 [info] redisClient.connected: true
+12-Oct-2021 17:31:58 [info] Reading data from session *****
+12-Oct-2021 17:31:58 [info] ****Read data from session
+12-Oct-2021 17:31:59 [info] redisClient.connected: true
+12-Oct-2021 17:31:59 [info] Reading data from session *****
+12-Oct-2021 17:31:59 [info] ****Read data from session
+12-Oct-2021 17:31:59 [info] redisClient.connected: true
+12-Oct-2021 17:32:00 [info] Reading data from session *****
+12-Oct-2021 17:32:00 [info] ****Read data from session
+12-Oct-2021 17:32:00 [info] redisClient.connected: true
+12-Oct-2021 17:32:00 [info] Reading data from session *****
+12-Oct-2021 17:32:00 [info] ****Read data from session
+12-Oct-2021 17:32:01 [info] redisClient.connected: true
+12-Oct-2021 17:32:01 [info] Reading data from session *****
+12-Oct-2021 17:32:01 [info] ****Read data from session
+12-Oct-2021 17:32:01 [info] redisClient.connected: true
+12-Oct-2021 17:32:02 [info] Reading data from session *****
+12-Oct-2021 17:32:02 [info] ****Read data from session
+12-Oct-2021 17:32:02 [info] redisClient.connected: true
+12-Oct-2021 17:32:02 [info] Reading data from session *****
+12-Oct-2021 17:32:02 [info] ****Read data from session
+12-Oct-2021 17:32:03 [info] redisClient.connected: true
+12-Oct-2021 17:32:03 [info] Reading data from session *****
+12-Oct-2021 17:32:03 [info] ****Read data from session
+12-Oct-2021 17:32:03 [info] redisClient.connected: true
+12-Oct-2021 17:32:04 [info] Reading data from session *****
+12-Oct-2021 17:32:04 [info] ****Read data from session
+12-Oct-2021 17:32:04 [info] redisClient.connected: true
+12-Oct-2021 17:32:04 [info] Reading data from session *****
+12-Oct-2021 17:32:04 [info] ****Read data from session
+12-Oct-2021 17:32:05 [info] redisClient.connected: true
+12-Oct-2021 17:32:05 [info] Reading data from session *****
+12-Oct-2021 17:32:05 [info] ****Read data from session
+12-Oct-2021 17:32:05 [info] redisClient.connected: true
+12-Oct-2021 17:32:06 [info] Reading data from session *****
+12-Oct-2021 17:32:06 [info] ****Read data from session
+12-Oct-2021 17:32:06 [info] redisClient.connected: true
+12-Oct-2021 17:32:06 [info] Reading data from session *****
+12-Oct-2021 17:32:06 [info] ****Read data from session
+12-Oct-2021 17:32:07 [info] redisClient.connected: true
+12-Oct-2021 17:32:07 [info] Reading data from session *****
+12-Oct-2021 17:32:07 [info] ****Read data from session
+12-Oct-2021 17:32:07 [info] redisClient.connected: true
+12-Oct-2021 17:32:08 [info] Reading data from session *****
+12-Oct-2021 17:32:08 [info] ****Read data from session
+12-Oct-2021 17:32:08 [info] redisClient.connected: true
+12-Oct-2021 17:32:08 [info] Reading data from session *****
+12-Oct-2021 17:32:08 [info] ****Read data from session
+12-Oct-2021 17:32:09 [info] redisClient.connected: true
+12-Oct-2021 17:32:09 [info] Reading data from session *****
+12-Oct-2021 17:32:09 [info] ****Read data from session
+12-Oct-2021 17:32:10 [info] redisClient.connected: true
+12-Oct-2021 17:32:10 [info] Reading data from session *****
+12-Oct-2021 17:32:10 [info] ****Read data from session
+12-Oct-2021 17:32:10 [info] redisClient.connected: true
+12-Oct-2021 17:32:10 [info] Reading data from session *****
+12-Oct-2021 17:32:10 [info] ****Read data from session
+12-Oct-2021 17:32:11 [info] redisClient.connected: true
+12-Oct-2021 17:32:11 [info] Reading data from session *****
+12-Oct-2021 17:32:11 [info] ****Read data from session
+12-Oct-2021 17:32:12 [info] redisClient.connected: true
+12-Oct-2021 17:32:12 [info] Reading data from session *****
+12-Oct-2021 17:32:12 [info] ****Read data from session
+12-Oct-2021 17:32:12 [info] redisClient.connected: true
+12-Oct-2021 17:32:12 [info] Reading data from session *****
+12-Oct-2021 17:32:12 [info] ****Read data from session
+12-Oct-2021 17:32:13 [info] redisClient.connected: true
+12-Oct-2021 17:32:13 [info] Reading data from session *****
+12-Oct-2021 17:32:13 [info] ****Read data from session
+12-Oct-2021 17:32:14 [info] redisClient.connected: true
+12-Oct-2021 17:32:14 [info] Reading data from session *****
+12-Oct-2021 17:32:14 [info] ****Read data from session
+12-Oct-2021 17:32:14 [info] redisClient.connected: true
+12-Oct-2021 17:32:14 [info] Reading data from session *****
+12-Oct-2021 17:32:14 [info] ****Read data from session
+12-Oct-2021 17:32:15 [info] redisClient.connected: true
+12-Oct-2021 17:32:15 [info] Reading data from session *****
+12-Oct-2021 17:32:15 [info] ****Read data from session
+12-Oct-2021 17:32:16 [info] redisClient.connected: true
+12-Oct-2021 17:32:16 [info] Reading data from session *****
+12-Oct-2021 17:32:16 [info] ****Read data from session
+12-Oct-2021 17:32:16 [info] redisClient.connected: true
+12-Oct-2021 17:32:16 [info] Reading data from session *****
+12-Oct-2021 17:32:16 [info] ****Read data from session
+12-Oct-2021 17:32:17 [info] redisClient.connected: true
+12-Oct-2021 17:32:17 [info] Reading data from session *****
+12-Oct-2021 17:32:17 [info] ****Read data from session
+12-Oct-2021 17:32:18 [info] redisClient.connected: true
+12-Oct-2021 17:32:18 [info] Reading data from session *****
+12-Oct-2021 17:32:18 [info] ****Read data from session
+12-Oct-2021 17:32:18 [info] redisClient.connected: true
+12-Oct-2021 17:32:18 [info] Reading data from session *****
+12-Oct-2021 17:32:18 [info] ****Read data from session
+12-Oct-2021 17:32:19 [info] redisClient.connected: true
+12-Oct-2021 17:32:19 [info] Reading data from session *****
+12-Oct-2021 17:32:19 [info] ****Read data from session
+12-Oct-2021 17:32:20 [info] redisClient.connected: true
+12-Oct-2021 17:32:20 [info] Reading data from session *****
+12-Oct-2021 17:32:20 [info] ****Read data from session
+12-Oct-2021 17:32:20 [info] redisClient.connected: true
+12-Oct-2021 17:32:21 [info] Reading data from session *****
+12-Oct-2021 17:32:21 [info] ****Read data from session
+12-Oct-2021 17:32:21 [info] redisClient.connected: true
+12-Oct-2021 17:32:21 [info] Reading data from session *****
+12-Oct-2021 17:32:21 [info] ****Read data from session
+12-Oct-2021 17:32:22 [info] redisClient.connected: true
+12-Oct-2021 17:32:22 [info] Reading data from session *****
+12-Oct-2021 17:32:22 [info] ****Read data from session
+12-Oct-2021 17:32:22 [info] redisClient.connected: true
+12-Oct-2021 17:32:22 [info] Reading data from session *****
+12-Oct-2021 17:32:22 [info] ****Read data from session
+12-Oct-2021 17:32:23 [info] redisClient.connected: true
+12-Oct-2021 17:32:23 [info] Reading data from session *****
+12-Oct-2021 17:32:23 [info] ****Read data from session
+12-Oct-2021 17:32:24 [info] redisClient.connected: true
+12-Oct-2021 17:32:24 [info] Reading data from session *****
+12-Oct-2021 17:32:24 [info] ****Read data from session
+12-Oct-2021 17:32:24 [info] redisClient.connected: true
+12-Oct-2021 17:32:24 [info] Reading data from session *****
+12-Oct-2021 17:32:24 [info] ****Read data from session
+12-Oct-2021 17:32:25 [info] redisClient.connected: true
+12-Oct-2021 17:32:25 [info] Reading data from session *****
+12-Oct-2021 17:32:25 [info] ****Read data from session
+12-Oct-2021 17:32:26 [info] redisClient.connected: true
+12-Oct-2021 17:32:26 [info] Reading data from session *****
+12-Oct-2021 17:32:26 [info] ****Read data from session
+12-Oct-2021 17:32:26 [info] redisClient.connected: true
+12-Oct-2021 17:32:26 [info] Reading data from session *****
+12-Oct-2021 17:32:26 [info] ****Read data from session
+12-Oct-2021 17:32:27 [info] redisClient.connected: true
+12-Oct-2021 17:32:27 [info] Reading data from session *****
+12-Oct-2021 17:32:27 [info] ****Read data from session
+12-Oct-2021 17:32:28 [info] redisClient.connected: true
+12-Oct-2021 17:32:28 [info] Reading data from session *****
+12-Oct-2021 17:32:28 [info] ****Read data from session
+12-Oct-2021 17:32:28 [info] redisClient.connected: true
+12-Oct-2021 17:32:28 [info] Reading data from session *****
+12-Oct-2021 17:32:28 [info] ****Read data from session
+12-Oct-2021 17:32:29 [info] redisClient.connected: true
+12-Oct-2021 17:32:29 [info] Reading data from session *****
+12-Oct-2021 17:32:29 [info] ****Read data from session
+12-Oct-2021 17:32:30 [info] redisClient.connected: true
+12-Oct-2021 17:32:30 [info] Reading data from session *****
+12-Oct-2021 17:32:30 [info] ****Read data from session
+12-Oct-2021 17:32:30 [info] redisClient.connected: true
+12-Oct-2021 17:32:30 [info] Reading data from session *****
+12-Oct-2021 17:32:30 [info] ****Read data from session
+12-Oct-2021 17:32:31 [info] redisClient.connected: true
+12-Oct-2021 17:32:31 [info] Reading data from session *****
+12-Oct-2021 17:32:31 [info] ****Read data from session
+12-Oct-2021 17:32:32 [info] redisClient.connected: true
+12-Oct-2021 17:32:32 [info] Reading data from session *****
+12-Oct-2021 17:32:32 [info] ****Read data from session
+12-Oct-2021 17:32:32 [info] redisClient.connected: true
+12-Oct-2021 17:32:32 [info] Reading data from session *****
+12-Oct-2021 17:32:32 [info] ****Read data from session
+12-Oct-2021 17:32:33 [info] redisClient.connected: true
+12-Oct-2021 17:32:33 [info] Reading data from session *****
+12-Oct-2021 17:32:33 [info] ****Read data from session
+12-Oct-2021 17:32:34 [info] redisClient.connected: true
+12-Oct-2021 17:32:34 [info] Reading data from session *****
+12-Oct-2021 17:32:34 [info] ****Read data from session
+12-Oct-2021 17:32:34 [info] redisClient.connected: true
+12-Oct-2021 17:32:34 [info] Reading data from session *****
+12-Oct-2021 17:32:34 [info] ****Read data from session
+12-Oct-2021 17:32:35 [info] redisClient.connected: true
+12-Oct-2021 17:32:35 [info] Reading data from session *****
+12-Oct-2021 17:32:35 [info] ****Read data from session
+12-Oct-2021 17:32:36 [info] redisClient.connected: true
+12-Oct-2021 17:32:36 [info] Reading data from session *****
+12-Oct-2021 17:32:36 [info] ****Read data from session
+12-Oct-2021 17:32:36 [info] redisClient.connected: true
+12-Oct-2021 17:32:37 [info] Reading data from session *****
+12-Oct-2021 17:32:37 [info] ****Read data from session
+12-Oct-2021 17:32:37 [info] redisClient.connected: true
+12-Oct-2021 17:32:37 [info] Reading data from session *****
+12-Oct-2021 17:32:37 [info] ****Read data from session
+12-Oct-2021 17:32:38 [info] redisClient.connected: true
+12-Oct-2021 17:32:38 [info] Reading data from session *****
+12-Oct-2021 17:32:38 [info] ****Read data from session
+12-Oct-2021 17:32:38 [info] redisClient.connected: true
+12-Oct-2021 17:32:39 [info] Reading data from session *****
+12-Oct-2021 17:32:39 [info] ****Read data from session
+12-Oct-2021 17:32:39 [info] redisClient.connected: true
+12-Oct-2021 17:32:39 [info] Reading data from session *****
+12-Oct-2021 17:32:39 [info] ****Read data from session
+12-Oct-2021 17:32:40 [info] redisClient.connected: true
+12-Oct-2021 17:32:40 [info] Reading data from session *****
+12-Oct-2021 17:32:40 [info] ****Read data from session
+12-Oct-2021 17:32:40 [info] redisClient.connected: true
+12-Oct-2021 17:32:41 [info] Reading data from session *****
+12-Oct-2021 17:32:41 [info] ****Read data from session
+12-Oct-2021 17:32:41 [info] redisClient.connected: true
+12-Oct-2021 17:32:41 [info] Reading data from session *****
+12-Oct-2021 17:32:41 [info] ****Read data from session
+12-Oct-2021 17:32:42 [info] redisClient.connected: true
+12-Oct-2021 17:32:42 [info] Reading data from session *****
+12-Oct-2021 17:32:42 [info] ****Read data from session
+12-Oct-2021 17:32:42 [info] redisClient.connected: true
+12-Oct-2021 17:32:43 [info] Reading data from session *****
+12-Oct-2021 17:32:43 [info] ****Read data from session
+12-Oct-2021 17:32:43 [info] redisClient.connected: true
+12-Oct-2021 17:32:43 [info] Reading data from session *****
+12-Oct-2021 17:32:43 [info] ****Read data from session
+12-Oct-2021 17:32:44 [info] redisClient.connected: true
+12-Oct-2021 17:32:44 [info] Reading data from session *****
+12-Oct-2021 17:32:44 [info] ****Read data from session
+12-Oct-2021 17:32:44 [info] redisClient.connected: true
+12-Oct-2021 17:32:45 [info] Reading data from session *****
+12-Oct-2021 17:32:45 [info] ****Read data from session
+12-Oct-2021 17:32:45 [info] redisClient.connected: true
+12-Oct-2021 17:32:45 [info] Reading data from session *****
+12-Oct-2021 17:32:45 [info] ****Read data from session
+12-Oct-2021 17:32:46 [info] redisClient.connected: true
+12-Oct-2021 17:32:46 [info] Reading data from session *****
+12-Oct-2021 17:32:46 [info] ****Read data from session
+12-Oct-2021 17:32:46 [info] redisClient.connected: true
+12-Oct-2021 17:32:47 [info] Reading data from session *****
+12-Oct-2021 17:32:47 [info] ****Read data from session
+12-Oct-2021 17:32:47 [info] redisClient.connected: true
+12-Oct-2021 17:32:47 [info] Reading data from session *****
+12-Oct-2021 17:32:47 [info] ****Read data from session
+12-Oct-2021 17:32:48 [info] redisClient.connected: true
+12-Oct-2021 17:32:48 [info] Reading data from session *****
+12-Oct-2021 17:32:48 [info] ****Read data from session
+12-Oct-2021 17:32:48 [info] redisClient.connected: true
+12-Oct-2021 17:32:49 [info] Reading data from session *****
+12-Oct-2021 17:32:49 [info] ****Read data from session
+12-Oct-2021 17:32:49 [info] redisClient.connected: true
+12-Oct-2021 17:32:49 [info] Reading data from session *****
+12-Oct-2021 17:32:49 [info] ****Read data from session
+12-Oct-2021 17:32:50 [info] redisClient.connected: true
+12-Oct-2021 17:32:50 [info] Reading data from session *****
+12-Oct-2021 17:32:50 [info] ****Read data from session
+12-Oct-2021 17:32:50 [info] redisClient.connected: true
+12-Oct-2021 17:32:51 [info] Reading data from session *****
+12-Oct-2021 17:32:51 [info] ****Read data from session
+12-Oct-2021 17:32:51 [info] redisClient.connected: true
+12-Oct-2021 17:32:51 [info] Reading data from session *****
+12-Oct-2021 17:32:51 [info] ****Read data from session
+12-Oct-2021 17:32:52 [info] redisClient.connected: true
+12-Oct-2021 17:32:52 [info] Reading data from session *****
+12-Oct-2021 17:32:52 [info] ****Read data from session
+12-Oct-2021 17:32:52 [info] redisClient.connected: true
+12-Oct-2021 17:32:53 [info] Reading data from session *****
+12-Oct-2021 17:32:53 [info] ****Read data from session
+12-Oct-2021 17:32:53 [info] redisClient.connected: true
+12-Oct-2021 17:32:53 [info] Reading data from session *****
+12-Oct-2021 17:32:53 [info] ****Read data from session
+12-Oct-2021 17:32:54 [info] redisClient.connected: true
+12-Oct-2021 17:32:54 [info] Reading data from session *****
+12-Oct-2021 17:32:54 [info] ****Read data from session
+12-Oct-2021 17:32:54 [info] redisClient.connected: true
+12-Oct-2021 17:32:55 [info] Reading data from session *****
+12-Oct-2021 17:32:55 [info] ****Read data from session
+12-Oct-2021 17:32:55 [info] redisClient.connected: true
+12-Oct-2021 17:32:55 [info] Reading data from session *****
+12-Oct-2021 17:32:55 [info] ****Read data from session
+12-Oct-2021 17:32:56 [info] redisClient.connected: true
+12-Oct-2021 17:32:56 [info] Reading data from session *****
+12-Oct-2021 17:32:56 [info] ****Read data from session
+12-Oct-2021 17:32:56 [info] redisClient.connected: true
+12-Oct-2021 17:32:57 [info] Reading data from session *****
+12-Oct-2021 17:32:57 [info] ****Read data from session
+12-Oct-2021 17:32:57 [info] redisClient.connected: true
+12-Oct-2021 17:32:57 [info] Reading data from session *****
+12-Oct-2021 17:32:57 [info] ****Read data from session
+12-Oct-2021 17:32:58 [info] redisClient.connected: true
+12-Oct-2021 17:32:58 [info] Reading data from session *****
+12-Oct-2021 17:32:58 [info] ****Read data from session
+12-Oct-2021 17:32:58 [info] redisClient.connected: true
+12-Oct-2021 17:32:59 [info] Reading data from session *****
+12-Oct-2021 17:32:59 [info] ****Read data from session
+12-Oct-2021 17:32:59 [info] redisClient.connected: true
+12-Oct-2021 17:32:59 [info] Reading data from session *****
+12-Oct-2021 17:32:59 [info] ****Read data from session
+12-Oct-2021 17:33:00 [info] redisClient.connected: true
+12-Oct-2021 17:33:00 [info] Reading data from session *****
+12-Oct-2021 17:33:00 [info] ****Read data from session
+12-Oct-2021 17:33:00 [info] redisClient.connected: true
+12-Oct-2021 17:33:01 [info] Reading data from session *****
+12-Oct-2021 17:33:01 [info] ****Read data from session
+12-Oct-2021 17:33:01 [info] redisClient.connected: true
+12-Oct-2021 17:33:01 [info] Reading data from session *****
+12-Oct-2021 17:33:01 [info] ****Read data from session
+12-Oct-2021 17:33:02 [info] redisClient.connected: true
+12-Oct-2021 17:33:02 [info] Reading data from session *****
+12-Oct-2021 17:33:02 [info] ****Read data from session
+12-Oct-2021 17:33:02 [info] redisClient.connected: true
+12-Oct-2021 17:33:03 [info] Reading data from session *****
+12-Oct-2021 17:33:03 [info] ****Read data from session
+12-Oct-2021 17:33:03 [info] redisClient.connected: true
+12-Oct-2021 17:33:03 [info] Reading data from session *****
+12-Oct-2021 17:33:03 [info] ****Read data from session
+12-Oct-2021 17:33:04 [info] redisClient.connected: true
+12-Oct-2021 17:33:04 [info] Reading data from session *****
+12-Oct-2021 17:33:04 [info] ****Read data from session
+12-Oct-2021 17:33:04 [info] redisClient.connected: true
+12-Oct-2021 17:33:05 [info] Reading data from session *****
+12-Oct-2021 17:33:05 [info] ****Read data from session
+12-Oct-2021 17:33:05 [info] redisClient.connected: true
+12-Oct-2021 17:33:05 [info] Reading data from session *****
+12-Oct-2021 17:33:05 [info] ****Read data from session
+12-Oct-2021 17:33:06 [info] redisClient.connected: true
+12-Oct-2021 17:33:06 [info] Reading data from session *****
+12-Oct-2021 17:33:06 [info] ****Read data from session
+12-Oct-2021 17:33:06 [info] redisClient.connected: true
+12-Oct-2021 17:33:07 [info] Reading data from session *****
+12-Oct-2021 17:33:07 [info] ****Read data from session
+12-Oct-2021 17:33:07 [info] redisClient.connected: true
+12-Oct-2021 17:33:07 [info] Reading data from session *****
+12-Oct-2021 17:33:07 [info] ****Read data from session
+12-Oct-2021 17:33:08 [info] redisClient.connected: true
+12-Oct-2021 17:33:08 [info] Reading data from session *****
+12-Oct-2021 17:33:08 [info] ****Read data from session
+12-Oct-2021 17:33:08 [info] redisClient.connected: true
+12-Oct-2021 17:33:09 [info] Reading data from session *****
+12-Oct-2021 17:33:09 [info] ****Read data from session
+12-Oct-2021 17:33:09 [info] redisClient.connected: true
+12-Oct-2021 17:33:09 [info] Reading data from session *****
+12-Oct-2021 17:33:09 [info] ****Read data from session
+12-Oct-2021 17:33:10 [info] redisClient.connected: true
+12-Oct-2021 17:33:10 [info] Reading data from session *****
+12-Oct-2021 17:33:10 [info] ****Read data from session
+12-Oct-2021 17:33:10 [info] redisClient.connected: true
+12-Oct-2021 17:33:11 [info] Reading data from session *****
+12-Oct-2021 17:33:11 [info] ****Read data from session
+12-Oct-2021 17:33:11 [info] redisClient.connected: true
+12-Oct-2021 17:33:11 [info] Reading data from session *****
+12-Oct-2021 17:33:11 [info] ****Read data from session
+12-Oct-2021 17:33:12 [info] redisClient.connected: true
+12-Oct-2021 17:33:12 [info] Reading data from session *****
+12-Oct-2021 17:33:12 [info] ****Read data from session
+12-Oct-2021 17:33:12 [info] redisClient.connected: true
+12-Oct-2021 17:33:13 [info] Reading data from session *****
+12-Oct-2021 17:33:13 [info] ****Read data from session
+12-Oct-2021 17:33:13 [info] redisClient.connected: true
+12-Oct-2021 17:33:13 [info] Reading data from session *****
+12-Oct-2021 17:33:13 [info] ****Read data from session
+12-Oct-2021 17:33:14 [info] redisClient.connected: true
+12-Oct-2021 17:33:14 [info] Reading data from session *****
+12-Oct-2021 17:33:14 [info] ****Read data from session
+12-Oct-2021 17:33:14 [info] redisClient.connected: true
+12-Oct-2021 17:33:15 [info] Reading data from session *****
+12-Oct-2021 17:33:15 [info] ****Read data from session
+12-Oct-2021 17:33:15 [info] redisClient.connected: true
+12-Oct-2021 17:33:15 [info] Reading data from session *****
+12-Oct-2021 17:33:15 [info] ****Read data from session
+12-Oct-2021 17:33:16 [info] redisClient.connected: true
+12-Oct-2021 17:33:16 [info] Reading data from session *****
+12-Oct-2021 17:33:16 [info] ****Read data from session
+12-Oct-2021 17:33:17 [info] redisClient.connected: true
+12-Oct-2021 17:33:17 [info] Reading data from session *****
+12-Oct-2021 17:33:17 [info] ****Read data from session
+12-Oct-2021 17:33:17 [info] redisClient.connected: true
+12-Oct-2021 17:33:17 [info] Reading data from session *****
+12-Oct-2021 17:33:17 [info] ****Read data from session
+12-Oct-2021 17:33:18 [info] redisClient.connected: true
+12-Oct-2021 17:33:18 [info] Reading data from session *****
+12-Oct-2021 17:33:18 [info] ****Read data from session
+12-Oct-2021 17:33:19 [info] redisClient.connected: true
+12-Oct-2021 17:33:19 [info] Reading data from session *****
+12-Oct-2021 17:33:19 [info] ****Read data from session
+12-Oct-2021 17:33:19 [info] redisClient.connected: true
+12-Oct-2021 17:33:19 [info] Reading data from session *****
+12-Oct-2021 17:33:19 [info] ****Read data from session
+12-Oct-2021 17:33:20 [info] redisClient.connected: true
+12-Oct-2021 17:33:20 [info] Reading data from session *****
+12-Oct-2021 17:33:20 [info] ****Read data from session
+12-Oct-2021 17:33:21 [info] redisClient.connected: true
+12-Oct-2021 17:33:21 [info] Reading data from session *****
+12-Oct-2021 17:33:21 [info] ****Read data from session
+12-Oct-2021 17:33:21 [info] redisClient.connected: true
+12-Oct-2021 17:33:21 [info] Reading data from session *****
+12-Oct-2021 17:33:21 [info] ****Read data from session
+12-Oct-2021 17:33:22 [info] redisClient.connected: true
+12-Oct-2021 17:33:22 [info] Reading data from session *****
+12-Oct-2021 17:33:22 [info] ****Read data from session
+12-Oct-2021 17:33:23 [info] redisClient.connected: true
+12-Oct-2021 17:33:23 [info] Reading data from session *****
+12-Oct-2021 17:33:23 [info] ****Read data from session
+12-Oct-2021 17:33:23 [info] redisClient.connected: true
+12-Oct-2021 17:33:23 [info] Reading data from session *****
+12-Oct-2021 17:33:23 [info] ****Read data from session
+12-Oct-2021 17:33:24 [info] redisClient.connected: true
+12-Oct-2021 17:33:24 [info] Reading data from session *****
+12-Oct-2021 17:33:24 [info] ****Read data from session
+12-Oct-2021 17:33:25 [info] redisClient.connected: true
+12-Oct-2021 17:33:25 [info] Reading data from session *****
+12-Oct-2021 17:33:25 [info] ****Read data from session
+12-Oct-2021 17:33:25 [info] redisClient.connected: true
+12-Oct-2021 17:33:25 [info] Reading data from session *****
+12-Oct-2021 17:33:25 [info] ****Read data from session
+12-Oct-2021 17:33:26 [info] redisClient.connected: true
+12-Oct-2021 17:33:26 [info] Reading data from session *****
+12-Oct-2021 17:33:26 [info] ****Read data from session
+12-Oct-2021 17:33:27 [info] redisClient.connected: true
+12-Oct-2021 17:33:27 [info] Reading data from session *****
+12-Oct-2021 17:33:27 [info] ****Read data from session
+12-Oct-2021 17:33:27 [info] redisClient.connected: true
+12-Oct-2021 17:33:27 [info] Reading data from session *****
+12-Oct-2021 17:33:27 [info] ****Read data from session
+12-Oct-2021 17:33:28 [info] redisClient.connected: true
+12-Oct-2021 17:33:28 [info] Reading data from session *****
+12-Oct-2021 17:33:28 [info] ****Read data from session
+12-Oct-2021 17:33:29 [info] redisClient.connected: true
+12-Oct-2021 17:33:29 [info] Reading data from session *****
+12-Oct-2021 17:33:29 [info] ****Read data from session
+12-Oct-2021 17:33:30 [info] redisClient.connected: true
+12-Oct-2021 17:33:30 [info] Reading data from session *****
+12-Oct-2021 17:33:30 [info] ****Read data from session
+12-Oct-2021 17:33:31 [info] redisClient.connected: true
+12-Oct-2021 17:33:31 [info] Reading data from session *****
+12-Oct-2021 17:33:31 [info] ****Read data from session
+12-Oct-2021 17:33:31 [info] redisClient.connected: true
+12-Oct-2021 17:33:31 [info] Reading data from session *****
+12-Oct-2021 17:33:31 [info] ****Read data from session
+12-Oct-2021 17:33:32 [info] redisClient.connected: true
+12-Oct-2021 17:33:32 [info] Reading data from session *****
+12-Oct-2021 17:33:32 [info] ****Read data from session
+12-Oct-2021 17:33:33 [info] redisClient.connected: true
+12-Oct-2021 17:33:33 [info] Reading data from session *****
+12-Oct-2021 17:33:33 [info] ****Read data from session
+12-Oct-2021 17:33:33 [info] redisClient.connected: true
+12-Oct-2021 17:33:33 [info] Reading data from session *****
+12-Oct-2021 17:33:33 [info] ****Read data from session
+12-Oct-2021 17:33:34 [info] redisClient.connected: true
+12-Oct-2021 17:33:34 [info] Reading data from session *****
+12-Oct-2021 17:33:34 [info] ****Read data from session
+12-Oct-2021 17:33:35 [info] redisClient.connected: true
+12-Oct-2021 17:33:54 [info] Redis - End.
+12-Oct-2021 17:33:54 [info] Redis - Delay 20000 with retry options: '{"attempt":1,"error":{"errno":-4077,"code":"ECONNRESET","syscall":"read"},"total_retry_time":0,"times_connected":1}'.
+12-Oct-2021 17:33:54 [info] redisClient.connected: false
+12-Oct-2021 17:33:54 [warn] Redis client got disconnected!
+12-Oct-2021 17:33:55 [info] Redis - Connected.
+12-Oct-2021 17:33:56 [info] Redis - Ready.
+12-Oct-2021 17:33:56 [info] Reading data from session *****
+12-Oct-2021 17:33:56 [info] ****Read data from session
+12-Oct-2021 17:33:56 [info] redisClient.connected: true
+12-Oct-2021 17:33:57 [info] Reading data from session *****
+12-Oct-2021 17:33:57 [info] ****Read data from session
+12-Oct-2021 17:33:57 [info] redisClient.connected: true
+12-Oct-2021 17:33:57 [info] Reading data from session *****
+12-Oct-2021 17:33:57 [info] ****Read data from session
+12-Oct-2021 17:34:14 [info] Redis - Reconnecting '{"delay":20000,"attempt":1,"error":{"errno":-4077,"code":"ECONNRESET","syscall":"read"},"total_retry_time":0,"times_connected":1}'.
+12-Oct-2021 17:34:15 [info] Redis - Connected.
+12-Oct-2021 17:34:15 [info] Redis - Ready.
+12-Oct-2021 19:28:57 [info] Redis - Connected.
+12-Oct-2021 19:28:57 [info] Redis - Ready.
+12-Oct-2021 19:29:08 [info] A new request started...
+12-Oct-2021 19:29:08 [info] Inserting new item.
+12-Oct-2021 19:29:08 [info] Searching an item.
+12-Oct-2021 19:29:08 [info] A new item inserted
+12-Oct-2021 19:29:08 [warn] Item is present.
+12-Oct-2021 19:29:08 [info] A new request ended...
+12-Oct-2021 19:33:45 [info] Redis - Connected.
+12-Oct-2021 19:33:45 [info] Redis - Ready.
+12-Oct-2021 19:34:57 [info] Redis - Connected.
+12-Oct-2021 19:34:58 [info] Redis - Ready.
+12-Oct-2021 19:35:17 [info] Redis - Connected.
+12-Oct-2021 19:35:17 [info] Redis - Ready.
+12-Oct-2021 19:36:02 [info] Redis - Connected.
+12-Oct-2021 19:36:02 [info] Redis - Ready.
+12-Oct-2021 19:38:03 [info] Redis - Connected.
+12-Oct-2021 19:38:03 [info] Redis - Ready.
+12-Oct-2021 19:39:39 [info] Redis - Connected.
+12-Oct-2021 19:39:39 [info] Redis - Ready.
+12-Oct-2021 19:39:39 [info] Key - sess:ywZwXnyMZRwSPfE2GNKQ0EvuGAYg34Pd
+12-Oct-2021 19:39:39 [info] Key - sess:R4cfxU8fDaLkPAA0V1z7-aK0s77UHTDv
+12-Oct-2021 19:39:39 [info] Key - sess:FQztoGN6ZbLyXQjCjudGsHx3deH2i4U1
+12-Oct-2021 19:39:39 [info] Key - 782d0f10-2b36-11ec-b631-9befbf67c1e9
+12-Oct-2021 19:40:47 [info] Redis - Connected.
+12-Oct-2021 19:40:47 [info] Redis - Ready.
+12-Oct-2021 19:40:47 [info] Key - sess:ywZwXnyMZRwSPfE2GNKQ0EvuGAYg34Pd
+12-Oct-2021 19:40:47 [info] Key - sess:R4cfxU8fDaLkPAA0V1z7-aK0s77UHTDv
+12-Oct-2021 19:40:47 [info] Key - sess:FQztoGN6ZbLyXQjCjudGsHx3deH2i4U1
+12-Oct-2021 19:40:47 [info] Key - 782d0f10-2b36-11ec-b631-9befbf67c1e9
+12-Oct-2021 19:40:47 [info] All keys are read
+12-Oct-2021 19:41:18 [info] Redis - Connected.
+12-Oct-2021 19:41:19 [info] Redis - Ready.
+12-Oct-2021 19:41:19 [info] Key - sess:ywZwXnyMZRwSPfE2GNKQ0EvuGAYg34Pd
+12-Oct-2021 19:41:19 [info] Key - sess:R4cfxU8fDaLkPAA0V1z7-aK0s77UHTDv
+12-Oct-2021 19:41:19 [info] Key - sess:FQztoGN6ZbLyXQjCjudGsHx3deH2i4U1
+12-Oct-2021 19:41:19 [info] Key - 782d0f10-2b36-11ec-b631-9befbf67c1e9
+12-Oct-2021 19:41:19 [info] All keys are read
+12-Oct-2021 19:41:19 [info] Redis - End.
+12-Oct-2021 20:21:43 [info] Redis - Connected.
+12-Oct-2021 20:21:43 [info] Redis - Connected.
+12-Oct-2021 20:21:43 [info] Redis - Ready.
+12-Oct-2021 20:21:43 [info] Redis - Ready.
+12-Oct-2021 20:45:29 [info] TEST 1 - Redis - Connected.
+12-Oct-2021 20:45:29 [info] TEST 2 - Redis - Connected.
+12-Oct-2021 20:45:29 [info] TEST 1 - Redis - Ready.
+12-Oct-2021 20:45:29 [info] TEST 2 - Redis - Ready.
+12-Oct-2021 20:45:42 [info] TEST 2 - Redis - Connected.
+12-Oct-2021 20:45:42 [info] TEST 1 - Redis - Connected.
+12-Oct-2021 20:45:42 [info] TEST 2 - Redis - Ready.
+12-Oct-2021 20:45:42 [info] TEST 1 - Redis - Ready.
+12-Oct-2021 20:45:50 [info] TEST 1 - STARTED
+12-Oct-2021 20:45:50 [info] TEST 1 - ENDED
+12-Oct-2021 20:45:50 [info] TEST 1 - Key - 782d0f10-2b36-11ec-b631-9befbf67c1e9
+12-Oct-2021 20:45:50 [info] TEST 1 - Key - sess:ywZwXnyMZRwSPfE2GNKQ0EvuGAYg34Pd
+12-Oct-2021 20:45:50 [info] TEST 1 - All keys are read
+12-Oct-2021 20:46:02 [info] TEST 2 - STARTED
+12-Oct-2021 20:46:02 [info] TEST 2 - ENDED
+12-Oct-2021 20:46:02 [info] TEST 2 - Key - 782d0f10-2b36-11ec-b631-9befbf67c1e9
+12-Oct-2021 20:46:02 [info] TEST 2 - Key - sess:ywZwXnyMZRwSPfE2GNKQ0EvuGAYg34Pd
+12-Oct-2021 20:46:02 [info] TEST 2 - All keys are read
+12-Oct-2021 20:53:58 [info] TEST 2 - Redis - Connected.
+12-Oct-2021 20:53:58 [info] TEST 1 - Redis - Connected.
+12-Oct-2021 20:53:58 [info] TEST 2 - Redis - Ready.
+12-Oct-2021 20:53:58 [info] TEST 1 - Redis - Ready.
+12-Oct-2021 20:54:06 [info] TEST 2 - STARTED
+12-Oct-2021 20:54:07 [info] TEST 2 - Key - 782d0f10-2b36-11ec-b631-9befbf67c1e9
+12-Oct-2021 20:54:07 [info] TEST 2 - Key - sess:ywZwXnyMZRwSPfE2GNKQ0EvuGAYg34Pd
+12-Oct-2021 20:54:07 [info] TEST 2 - All keys are read
+12-Oct-2021 20:54:07 [info] TEST 2 - ENDED
+12-Oct-2021 20:59:16 [info] TEST 2 - Redis - Connected.
+12-Oct-2021 20:59:16 [info] TEST 1 - Redis - Connected.
+12-Oct-2021 20:59:17 [info] TEST 2 - Redis - Ready.
+12-Oct-2021 20:59:17 [info] TEST 1 - Redis - Ready.
+12-Oct-2021 20:59:23 [info] TEST 2 - STARTED
+12-Oct-2021 20:59:23 [info] TEST 2 - A new request started...
+12-Oct-2021 20:59:23 [info] TEST 2 - Inserting new item.
+12-Oct-2021 20:59:23 [info] TEST 2 - Searching an item.
+12-Oct-2021 20:59:23 [info] TEST 2 - A new item inserted
+12-Oct-2021 20:59:23 [warn] TEST 2 - Item is present.
+12-Oct-2021 21:00:39 [info] TEST 2 - Redis - Connected.
+12-Oct-2021 21:00:39 [info] TEST 1 - Redis - Connected.
+12-Oct-2021 21:00:39 [info] TEST 2 - Redis - Ready.
+12-Oct-2021 21:00:39 [info] TEST 1 - Redis - Ready.
+12-Oct-2021 21:00:44 [info] TEST 2 - STARTED
+12-Oct-2021 21:00:44 [info] TEST 2 - A new request started...
+12-Oct-2021 21:00:44 [info] TEST 2 - Inserting new item.
+12-Oct-2021 21:00:44 [info] TEST 2 - Searching an item.
+12-Oct-2021 21:00:44 [info] TEST 2 - A new item inserted
+12-Oct-2021 21:00:44 [warn] TEST 2 - Item is present.
+12-Oct-2021 21:00:44 [info] TEST 2 - A new request ended...
+12-Oct-2021 21:00:47 [info] TEST 2 - STARTED
+12-Oct-2021 21:00:47 [info] TEST 2 - A new request started...
+12-Oct-2021 21:00:47 [info] TEST 2 - Inserting new item.
+12-Oct-2021 21:00:47 [info] TEST 2 - Searching an item.
+12-Oct-2021 21:00:47 [info] TEST 2 - A new item inserted
+12-Oct-2021 21:00:47 [warn] TEST 2 - Item is present.
+12-Oct-2021 21:00:47 [info] TEST 2 - A new request ended...
+12-Oct-2021 21:00:48 [info] TEST 2 - STARTED
+12-Oct-2021 21:00:48 [info] TEST 2 - A new request started...
+12-Oct-2021 21:00:48 [info] TEST 2 - Inserting new item.
+12-Oct-2021 21:00:48 [info] TEST 2 - Searching an item.
+12-Oct-2021 21:00:48 [info] TEST 2 - A new item inserted
+12-Oct-2021 21:00:48 [warn] TEST 2 - Item is present.
+12-Oct-2021 21:00:48 [info] TEST 2 - A new request ended...
+12-Oct-2021 21:00:49 [info] TEST 2 - STARTED
+12-Oct-2021 21:00:49 [info] TEST 2 - A new request started...
+12-Oct-2021 21:00:49 [info] TEST 2 - Inserting new item.
+12-Oct-2021 21:00:49 [info] TEST 2 - Searching an item.
+12-Oct-2021 21:00:50 [info] TEST 2 - A new item inserted
+12-Oct-2021 21:00:50 [warn] TEST 2 - Item is present.
+12-Oct-2021 21:00:50 [info] TEST 2 - A new request ended...
+12-Oct-2021 21:00:50 [info] TEST 2 - STARTED
+12-Oct-2021 21:00:50 [info] TEST 2 - A new request started...
+12-Oct-2021 21:00:50 [info] TEST 2 - Inserting new item.
+12-Oct-2021 21:00:50 [info] TEST 2 - Searching an item.
+12-Oct-2021 21:00:50 [info] TEST 2 - A new item inserted
+12-Oct-2021 21:00:50 [warn] TEST 2 - Item is present.
+12-Oct-2021 21:00:50 [info] TEST 2 - A new request ended...
+12-Oct-2021 21:00:51 [info] TEST 2 - STARTED
+12-Oct-2021 21:00:51 [info] TEST 2 - A new request started...
+12-Oct-2021 21:00:51 [info] TEST 2 - Inserting new item.
+12-Oct-2021 21:00:51 [info] TEST 2 - Searching an item.
+12-Oct-2021 21:00:51 [info] TEST 2 - A new item inserted
+12-Oct-2021 21:00:51 [warn] TEST 2 - Item is present.
+12-Oct-2021 21:00:51 [info] TEST 2 - A new request ended...
+12-Oct-2021 21:00:52 [info] TEST 2 - STARTED
+12-Oct-2021 21:00:52 [info] TEST 2 - A new request started...
+12-Oct-2021 21:00:52 [info] TEST 2 - Inserting new item.
+12-Oct-2021 21:00:52 [info] TEST 2 - Searching an item.
+12-Oct-2021 21:00:52 [info] TEST 2 - A new item inserted
+12-Oct-2021 21:00:52 [warn] TEST 2 - Item is present.
+12-Oct-2021 21:00:52 [info] TEST 2 - A new request ended...
+12-Oct-2021 21:00:52 [info] TEST 2 - STARTED
+12-Oct-2021 21:00:52 [info] TEST 2 - A new request started...
+12-Oct-2021 21:00:52 [info] TEST 2 - Inserting new item.
+12-Oct-2021 21:00:52 [info] TEST 2 - Searching an item.
+12-Oct-2021 21:00:52 [info] TEST 2 - A new item inserted
+12-Oct-2021 21:00:52 [warn] TEST 2 - Item is present.
+12-Oct-2021 21:00:52 [info] TEST 2 - A new request ended...
+12-Oct-2021 21:00:53 [info] TEST 2 - STARTED
+12-Oct-2021 21:00:53 [info] TEST 2 - A new request started...
+12-Oct-2021 21:00:53 [info] TEST 2 - Inserting new item.
+12-Oct-2021 21:00:53 [info] TEST 2 - Searching an item.
+12-Oct-2021 21:00:53 [info] TEST 2 - A new item inserted
+12-Oct-2021 21:00:53 [warn] TEST 2 - Item is present.
+12-Oct-2021 21:00:53 [info] TEST 2 - A new request ended...
+12-Oct-2021 21:00:53 [info] TEST 2 - STARTED
+12-Oct-2021 21:00:53 [info] TEST 2 - A new request started...
+12-Oct-2021 21:00:53 [info] TEST 2 - Inserting new item.
+12-Oct-2021 21:00:53 [info] TEST 2 - Searching an item.
+12-Oct-2021 21:00:54 [info] TEST 2 - A new item inserted
+12-Oct-2021 21:00:54 [warn] TEST 2 - Item is present.
+12-Oct-2021 21:00:54 [info] TEST 2 - A new request ended...
+12-Oct-2021 21:00:54 [info] TEST 2 - STARTED
+12-Oct-2021 21:00:54 [info] TEST 2 - A new request started...
+12-Oct-2021 21:00:54 [info] TEST 2 - Inserting new item.
+12-Oct-2021 21:00:54 [info] TEST 2 - Searching an item.
+12-Oct-2021 21:00:54 [info] TEST 2 - A new item inserted
+12-Oct-2021 21:00:54 [warn] TEST 2 - Item is present.
+12-Oct-2021 21:00:54 [info] TEST 2 - A new request ended...
+12-Oct-2021 21:00:55 [info] TEST 2 - STARTED
+12-Oct-2021 21:00:55 [info] TEST 2 - A new request started...
+12-Oct-2021 21:00:55 [info] TEST 2 - Inserting new item.
+12-Oct-2021 21:00:55 [info] TEST 2 - Searching an item.
+12-Oct-2021 21:00:55 [info] TEST 2 - A new item inserted
+12-Oct-2021 21:00:55 [warn] TEST 2 - Item is present.
+12-Oct-2021 21:00:55 [info] TEST 2 - A new request ended...
+12-Oct-2021 21:00:55 [info] TEST 2 - STARTED
+12-Oct-2021 21:00:55 [info] TEST 2 - A new request started...
+12-Oct-2021 21:00:55 [info] TEST 2 - Inserting new item.
+12-Oct-2021 21:00:55 [info] TEST 2 - Searching an item.
+12-Oct-2021 21:00:55 [info] TEST 2 - A new item inserted
+12-Oct-2021 21:00:55 [warn] TEST 2 - Item is present.
+12-Oct-2021 21:00:55 [info] TEST 2 - A new request ended...
+12-Oct-2021 21:00:56 [info] TEST 2 - STARTED
+12-Oct-2021 21:00:56 [info] TEST 2 - A new request started...
+12-Oct-2021 21:00:56 [info] TEST 2 - Inserting new item.
+12-Oct-2021 21:00:56 [info] TEST 2 - Searching an item.
+12-Oct-2021 21:00:56 [info] TEST 2 - A new item inserted
+12-Oct-2021 21:00:56 [warn] TEST 2 - Item is present.
+12-Oct-2021 21:00:56 [info] TEST 2 - A new request ended...
+12-Oct-2021 21:00:57 [info] TEST 2 - STARTED
+12-Oct-2021 21:00:57 [info] TEST 2 - A new request started...
+12-Oct-2021 21:00:57 [info] TEST 2 - Inserting new item.
+12-Oct-2021 21:00:57 [info] TEST 2 - Searching an item.
+12-Oct-2021 21:00:57 [info] TEST 2 - A new item inserted
+12-Oct-2021 21:00:57 [warn] TEST 2 - Item is present.
+12-Oct-2021 21:00:57 [info] TEST 2 - A new request ended...
+12-Oct-2021 21:00:57 [info] TEST 2 - STARTED
+12-Oct-2021 21:00:57 [info] TEST 2 - A new request started...
+12-Oct-2021 21:00:57 [info] TEST 2 - Inserting new item.
+12-Oct-2021 21:00:57 [info] TEST 2 - Searching an item.
+12-Oct-2021 21:00:57 [info] TEST 2 - A new item inserted
+12-Oct-2021 21:00:57 [warn] TEST 2 - Item is present.
+12-Oct-2021 21:00:57 [info] TEST 2 - A new request ended...
+12-Oct-2021 21:00:58 [info] TEST 2 - STARTED
+12-Oct-2021 21:00:58 [info] TEST 2 - A new request started...
+12-Oct-2021 21:00:58 [info] TEST 2 - Inserting new item.
+12-Oct-2021 21:00:58 [info] TEST 2 - Searching an item.
+12-Oct-2021 21:00:58 [info] TEST 2 - A new item inserted
+12-Oct-2021 21:00:58 [warn] TEST 2 - Item is present.
+12-Oct-2021 21:00:58 [info] TEST 2 - A new request ended...
+12-Oct-2021 21:00:58 [info] TEST 2 - STARTED
+12-Oct-2021 21:00:58 [info] TEST 2 - A new request started...
+12-Oct-2021 21:00:58 [info] TEST 2 - Inserting new item.
+12-Oct-2021 21:00:58 [info] TEST 2 - Searching an item.
+12-Oct-2021 21:00:59 [info] TEST 2 - A new item inserted
+12-Oct-2021 21:00:59 [warn] TEST 2 - Item is present.
+12-Oct-2021 21:00:59 [info] TEST 2 - A new request ended...
+12-Oct-2021 21:01:04 [info] TEST 1 - STARTED
+12-Oct-2021 21:01:04 [info] TEST 1 - A new request started...
+12-Oct-2021 21:01:04 [info] TEST 1 - Inserting new item.
+12-Oct-2021 21:01:04 [info] TEST 1 - Searching an item.
+12-Oct-2021 21:01:04 [info] TEST 1 - A new item inserted
+12-Oct-2021 21:01:04 [warn] TEST 1 - Item is present.
+12-Oct-2021 21:01:04 [info] TEST 1 - A new request ended...
+12-Oct-2021 21:26:04 [info] TEST 1 - Redis - Connected.
+12-Oct-2021 21:26:04 [info] TEST 1 - Redis - Ready.
+12-Oct-2021 21:26:14 [info] TEST 1 - STARTED
+12-Oct-2021 21:26:14 [info] TEST 1 - Inserting new item.
+12-Oct-2021 21:26:14 [info] TEST 1 - Searching an item.
+12-Oct-2021 21:26:14 [info] TEST 1 - A new item inserted
+12-Oct-2021 21:26:14 [warn] TEST 1 - Item is present.
+12-Oct-2021 21:27:15 [info] TEST 1 - Redis - Connected.
+12-Oct-2021 21:27:15 [info] TEST 1 - Redis - Ready.
+12-Oct-2021 21:27:20 [info] TEST 1 - STARTED
+12-Oct-2021 21:27:20 [info] TEST 1 - Inserting new item.
+12-Oct-2021 21:27:20 [info] TEST 1 - Searching an item.
+12-Oct-2021 21:27:20 [info] TEST 1 - A new item inserted
+12-Oct-2021 21:27:20 [warn] TEST 1 - Item is present.
+12-Oct-2021 21:27:59 [info] TEST 1 - Redis - Connected.
+12-Oct-2021 21:28:00 [info] TEST 1 - Redis - Ready.
+12-Oct-2021 21:28:02 [info] TEST 1 - STARTED
+12-Oct-2021 21:28:02 [info] TEST 1 - Inserting new item.
+12-Oct-2021 21:28:02 [info] TEST 1 - Searching an item.
+12-Oct-2021 21:28:02 [info] TEST 1 - A new item inserted
+12-Oct-2021 21:28:02 [warn] TEST 1 - Item is present.
+12-Oct-2021 21:28:02 [info] TEST 1 - A new request ended...

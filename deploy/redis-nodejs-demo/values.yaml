@@ -5,10 +5,10 @@
 replicaCount: 1
 
 image:
-  repository: nginx
-  pullPolicy: IfNotPresent
+  repository: az104practiceacr01.azurecr.io/redis-nodejs-demo
+  pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: ""
+  tag: node-12
 
 imagePullSecrets: []
 nameOverride: ""
@@ -41,16 +41,15 @@ service:
   port: 80
 
 ingress:
-  enabled: false
+  enabled: true
   className: ""
-  annotations: {}
-    # kubernetes.io/ingress.class: nginx
-    # kubernetes.io/tls-acme: "true"
+  annotations:
+    kubernetes.io/ingress.class: addon-http-application-routing
   hosts:
-    - host: chart-example.local
+    - host: redis-nodejs-demo.5f41657bc93448dabdbc.australiaeast.aksapp.io
       paths:
         - path: /
-          pathType: ImplementationSpecific
+          pathType: Prefix
   tls: []
   #  - secretName: chart-example-tls
   #    hosts:

@@ -1,9 +1,7 @@
 const logger = require('./logger');
-const express = require('express');
 const redis = require('redis');
+const uuid = require('uuid');
 require('dotenv').config({path:'./.env'}); // https://www.npmjs.com/package/dotenv
-
-var app = express();
 
 
 const createRedisClient = () => {
@@ -49,57 +47,14 @@ const createRedisClient = () => {
     return client;
 };
 
-
-// app.use(session({
-//     store: new RedisStore({ client: createRedisClient() }),
-//     saveUninitialized: false,
-//     secret: 'keyboard cat',
-//     resave: false
-// }));
-
-
 const redisClient = createRedisClient();
 
-app.get('/', async (req, res) => {
+redisClient.keys('*',(err,keys) => {
+    if(err) logger.error(err);
 
-    logger.info('A new request started...');
-
-    redisClient.get('MY_DATE', (err,reply) => {
-        if(err){
-            logger.error(err);
-        }
-
-        if(!reply){
-            logger.warn('Key not present.');
-            const val = (new Date()).toString();
-            redisClient.set('MY_DATE', val, (err, reply) => {
-
-                var obj = {
-                    redisHost: process.env.REDIS_CACHE_HOST_NAME,
-                    value: val
-                };
-            
-               res.send(obj);
-            
-               logger.info('A new request ended...');
-
-            });
-        }
-        else{
-            logger.info(`Key found: VALUE=${reply}`);
-            var obj = {
-                redisHost: process.env.REDIS_CACHE_HOST_NAME,
-                value: reply
-            };
-        
-           res.send(obj);
-        
-           logger.info('A new request ended...');
-        }
-
+    keys.forEach((e,i) => {
+        logger.info(`Key - ${e}`);
     });
-
-
+    logger.info('All keys are read');
 });
-
-app.listen(3000);
+redisClient.quit();
